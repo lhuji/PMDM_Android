@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "869001292854",
+    "firebase_url": "https://realtimedatabse-121e5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "realtimedatabse-121e5",
+    "storage_bucket": "realtimedatabse-121e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869001292854:android:f9b9a5c4ee4e2676fefc97",
+        "android_client_info": {
+          "package_name": "com.example.entrenamientofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVqSihpF7RjNHALTUnhtJtbOK7C5Q97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
